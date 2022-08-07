@@ -1,0 +1,53 @@
+/*TAG SELECTORS*/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Taviraj', serif;
+}
+
+h1{
+  color: white;
+  margin: 0;
+  padding-top: 100px;
+  font-family: 'Kalam', cursive;
+}
+
+
+/*CLASS SELECTORS*/
+
+.flatIcon{
+  height: 200px; 
+}
+
+.top-container{
+  background-color: #0F2C67;
+  position: relative;
+}
+
+.topParagraph{
+  color: white;
+  margin: 0;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+}
+
+.bottomCloud{
+  position: absolute;
+
+}
+
+.topCloud{
+  position:absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.mountain{
+}
+
+/*ID SELECTORS*/
