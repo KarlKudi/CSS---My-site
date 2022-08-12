@@ -8,8 +8,7 @@ body{
 
 h1{
   color: white;
-  margin: 0;
-  padding-top: 100px;
+  margin: 50px 0 0 0;
   font-family: 'Kalam', cursive;
   font-size: 5.625rem;
 }
@@ -29,11 +28,11 @@ h2{
   background-color: #0F2C67;
   position: relative;
   margin: 0;
+  padding: 100px;
 }
 
 .topParagraph{
   color: white;
-  margin: 0;
 }
 
 .middle-container{
@@ -44,7 +43,6 @@ h2{
 
 .bottomCloud{
   position: absolute;
-
 }
 
 .topCloud{
