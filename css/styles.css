@@ -11,18 +11,24 @@ h1{
   margin: 0;
   padding-top: 100px;
   font-family: 'Kalam', cursive;
+  font-size: 5.625rem;
 }
 
+h2{
+  font-size: 2.5rem;
+  font-family: 'Kalam', cursive;
+}
 
 /*CLASS SELECTORS*/
 
 .flatIcon{
-  height: 200px; 
+  height: 200px;
 }
 
 .top-container{
   background-color: #0F2C67;
   position: relative;
+  margin: 0;
 }
 
 .topParagraph{
